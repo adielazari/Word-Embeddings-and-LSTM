@@ -31,6 +31,8 @@ Between  chracters  based models:
 
  
 And words based models:
+![image](https://user-images.githubusercontent.com/44158047/86533043-0935fa80-bed7-11ea-8e45-c23c4111191f.png)
+
  
 The parameters on which theshow is compared  aretheRmse, the training time, and the time of prediction.
 You can see that the least good model today the Siamese model and the והKNN  which in the Siamese model time workout was a significant big one from the rest of the time and theKNN was the most significant of the rest and for both theRmse  was the highest.
