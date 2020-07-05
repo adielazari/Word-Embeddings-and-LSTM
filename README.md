@@ -27,10 +27,12 @@ The third part of our performance is making learning transfer  that means usingt
 
 •	We finally made a graph comparing the four models we built
 Between  chracters  based models:
+
 ![image](https://user-images.githubusercontent.com/44158047/86533010-beb47e00-bed6-11ea-8d8f-eb044d02703f.png)
 
  
 And words based models:
+
 ![image](https://user-images.githubusercontent.com/44158047/86533043-0935fa80-bed7-11ea-8e45-c23c4111191f.png)
 
  
