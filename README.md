@@ -37,6 +37,9 @@ And words based models:
 The parameters on which theshow is compared  aretheRmse, the training time, and the time of prediction.
 You can see that the least good model today the Siamese model and the והKNN  which in the Siamese model time workout was a significant big one from the rest of the time and theKNN was the most significant of the rest and for both theRmse  was the highest.
 
+#### A summary table
+
+![image](https://user-images.githubusercontent.com/44158047/86533114-6cc02800-bed7-11ea-8901-d2d07e7ad7e2.png)
 
 To summarize the ratio between the character level  model andword level with  thisembedding wordlevel in the training time and the network's test is growing very much and it is because of theembedding, but gives better results besides the fact that it is more over  fitting than the  character level model. Conversely, thefeature extraction for the  xgb  andKNN models while reduced in  word level  that has fewer  tokens  but did not change the indices.
 
